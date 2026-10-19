@@ -1,8 +1,11 @@
 # External Links for Guild Wars 2
 
-An addon that lets external links perform actions in Guild Wars 2. Only chat links are currently supported.
+An addon that lets external links (`gw2://...`) perform actions in Guild Wars 2. Only chat links are currently supported.
 
-Supported addon loaders:
+> [!NOTE]
+> This repo only contains releases and the issue tracker. The addon source code relies on game internals and is therefore kept private.
+
+## Supported addon loaders
 
 - GW2Load
 
